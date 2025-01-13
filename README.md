@@ -2,8 +2,9 @@ Productivity:
 | Tool                                               | Why It's Great      |
 |----------------------------------------------------|---------------------|
 | [Tweek](https://tweek.so/#)         | Simple weekly planner for short-term goals (<1wk) <br /> Web-based, indie dev team, works on mobile & while logged out      |
-| [Todoist](https://todoist.com/)   | Project boards for goals with many parts <br /> Built-in habit tracking for persistent goals       |
-| [Calmly Writer](https://www.calmlywriter.com/online/) | Unobtrusive scratchpad that works everywhere <br /> Export to convenient formats (`html`, `md`)       |
+| [Todoist](https://todoist.com/)   | Project boards with swimlanes for separate types of tasks <br /> Built-in habit tracking extension for daily goals with streaks       |
+| [Simplenote](https://simplenote.com/) | Notes with fast cloud sync, useful on multiple devices <br /> Searchable tags and Markdown support |
+| [Notion](https://www.notion.com) | Personal workspace to track documents, links, notes |
 
 MacOS:
 | Tool                                               | Why It's Great      |
