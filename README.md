@@ -2,14 +2,12 @@ Productivity:
 | Tool                                               | Why It's Great      |
 |----------------------------------------------------|---------------------|
 | [Tweek](https://tweek.so/#)         | Simple weekly planner for short-term goals (<1wk) <br /> Web-based, indie dev team, works on mobile & while logged out      |
-| [Todoist](https://todoist.com/)   | Project boards with swimlanes for separate types of tasks <br /> Built-in habit tracking extension for daily goals with streaks       |
+| [Beaver Habit Tracker](https://github.com/daya0576/beaverhabits) | Self-hosted, mobile PWA that tracks and stores streak information for daily habits      |
 | [Simplenote](https://simplenote.com/) | Notes with fast cloud sync, useful on multiple devices <br /> Searchable tags and Markdown support |
-| [Notion](https://www.notion.com) | Personal workspace to track documents, links, notes |
 
 MacOS:
 | Tool                                               | Why It's Great      |
 |----------------------------------------------------|---------------------|
-| [Blurred](https://github.com/dwarvesf/blurred)         | Isolate the active window to minimize distractions      |
 | [One Thing](https://sindresorhus.com/one-thing) | Displays the current priority at a glance  |
 | [Menubar Countdown](https://github.com/kristopherjohnson/MenubarCountdown) | Displays a persistent timer at a glance   |
 | [MacWhipser](https://goodsnooze.gumroad.com/l/macwhisper) | Transcribe microphone recordings easily  |
