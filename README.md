@@ -15,6 +15,7 @@ MacOS:
 Browser  ([*use a secure browser](https://privacytests.org/) + a vpn):
 | Tool                                               | Why It's Great      |
 |----------------------------------------------------|---------------------|
+| [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator)         | Hide feeds everywhere. Serenity. |
 | [Sessionic](https://github.com/navorite/sessionic)         | Compartmentalize tabs & related contexts for later      |
 | [Dark Reader](https://darkreader.org/) | Dark mode everywhere  |
 | [Whatfont?](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) | Eyedropper for fonts   |
