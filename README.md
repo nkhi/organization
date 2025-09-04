@@ -2,7 +2,8 @@ Productivity:
 | Tool                                               | Why It's Great      |
 |----------------------------------------------------|---------------------|
 | [Tweek](https://tweek.so/#)         | Simple weekly planner for short-term goals (<1wk) <br /> Web-based, indie dev team, works on mobile & while logged out      |
-| [Beaver Habit Tracker](https://github.com/daya0576/beaverhabits) | Self-hosted, mobile PWA that tracks and stores streak information for daily habits      |
+| [Beaver Habit Tracker](https://github.com/daya0576/beaverhabits) | Clear habit tracker with streaks and data vis. Self-hosted, and the web app is a mobile PWA.  |
+| [Memos](https://www.usememos.com/docs/installation/docker) | Self-hosted Twitter-like personal diary in feed form. Capture ideas that aren't todos or notes. |
 | [Simplenote](https://simplenote.com/) | Notes with fast cloud sync, useful on multiple devices <br /> Searchable tags and Markdown support |
 
 MacOS:
@@ -10,7 +11,8 @@ MacOS:
 |----------------------------------------------------|---------------------|
 | [One Thing](https://sindresorhus.com/one-thing) | Displays the current priority at a glance  |
 | [Menubar Countdown](https://github.com/kristopherjohnson/MenubarCountdown) | Displays a persistent timer at a glance   |
-| [MacWhipser](https://goodsnooze.gumroad.com/l/macwhisper) | Transcribe microphone recordings easily  |
+| [MacWhipser](https://goodsnooze.gumroad.com/l/macwhisper) | Transcribe microphone recordings for longform recordings  |
+| [Superwhisper](https://superwhisper.com/) | Transcribe microphone recordings for short-form dictation, writing messages, asking Cursor something, writing a text, etc.  |
 
 Browser  ([*use a secure browser](https://privacytests.org/) + a vpn):
 | Tool                                               | Why It's Great      |
