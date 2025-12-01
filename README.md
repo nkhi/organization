@@ -20,13 +20,15 @@ MacOS:
 | [Superwhisper](https://superwhisper.com/)                                  | Local speech-to-text with OpenAI Whisper. Great for short-form messages on Slack or iMessage, or prompting in Cursor. |
 
 Browser  ([*use a secure browser](https://privacytests.org/) + a vpn):
-| Tool                                                                                              | Why It's Great                                     |
-|---------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator)                          | Hide feeds everywhere. Serenity.                   |
-| [Sessionic](https://github.com/navorite/sessionic)                                                | Compartmentalize tabs & related contexts for later |
-| [Dark Reader](https://darkreader.org/)                                                            | Dark mode everywhere                               |
-| [Whatfont?](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)   | Eyedropper for fonts                               |
-| [User Agent Switcher](https://addons.mozilla.org/en-CA/firefox/addon/user-agent-string-switcher/) |                                                    |
+| Tool                                                                                                     | Why It's Great                                                                             |
+|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator)                                 | Hide feeds everywhere.                                                                     |
+| [Sessionic](https://github.com/navorite/sessionic)                                                       | Compartmentalize tabs & related contexts for later                                         |
+| [Dark Reader](https://darkreader.org/)                                                                   | Dark mode everywhere                                                                       |
+| [Whatfont?](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)          | Eyedropper for fonts                                                                       |
+| [User Agent Switcher](https://addons.mozilla.org/en-CA/firefox/addon/user-agent-string-switcher/)        |                                                                                            |
+| [Leechblock NG](https://chromewebstore.google.com/detail/leechblock-ng/blaaajhemilngeeffpbfkdjjoefldkok) | Block websites you don't need to keep going on                                             |
+| [(Android) NextDNS Manager](https://nextdns.io/)                                                         | Block websites like Leechblock but at the DNS level. Also remove ads & telemetry trackers. |
 
 
 
