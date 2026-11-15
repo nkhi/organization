@@ -4,19 +4,13 @@
 
 <table>
   <tr>
-    <td width="104" align="center" valign="middle">
-      <img src="./assets/icons/spacer.svg" width="78" height="1" alt="" /><br />
-      <img src="./assets/icons/start-menu.svg" width="60" height="60" alt="Start Menu" />
-    </td>
-    <td valign="top">
-      <h3>
-        <a href="https://github.com/nkhi/strongroots">⭐️ Start Menu</a>
-        &nbsp;<sup><code>Personal Project</code></sup>
-      </h3>
+    <td width="882" align="center" valign="top">
+      <img src="./assets/icons/spacer.svg" width="856" height="1" alt="" /><br />
+      <img src="./assets/icons/start-menu.png" width="56" height="56" alt="Start Menu" />
+      <h3><a href="https://github.com/nkhi/strongroots">⭐️ Start Menu</a></h3>
       <p>
         Combines daily to-do lists, habit tracking, and long-running notes into a single everything app that I host on my home server, using <a href="https://tailscale.com/">Tailscale</a> and <a href="https://caddyserver.com/">Caddy</a> to access it when I'm out and about. Replaces <a href="https://tweek.so/#">Tweek</a>, <a href="https://github.com/daya0576/beaverhabits">Beaver Habit Tracker</a>, and <a href="https://simplenote.com/">Simplenote</a>. Integrates <a href="https://www.usememos.com/docs/installation/docker">Memos</a> as a durable, searchable notes solution.
       </p>
-      <img src="./assets/icons/spacer.svg" width="752" height="1" alt="" />
     </td>
   </tr>
 </table>
@@ -105,9 +99,9 @@
     </td>
     <td width="294" align="center" valign="top">
       <img src="./assets/icons/spacer.svg" width="268" height="1" alt="" /><br />
-      <img src="./assets/icons/sessionic.png" width="44" height="44" alt="Sessionic" />
-      <h3><a href="https://github.com/navorite/sessionic">Sessionic</a></h3>
-      <p>Compartmentalize tabs &amp; related contexts for later</p>
+      <img src="./assets/icons/tabbit.png" width="44" height="44" alt="Tabbit" />
+      <h3><a href="https://chromewebstore.google.com/detail/tabbit-tab-closer-organiz/calbmnbhppoplenhgpfejepklainehko">Tabbit</a></h3>
+      <p>Helps you close old tabs you don't need anymore, and manage window sprawl across sessions.</p>
     </td>
     <td width="294" align="center" valign="top">
       <img src="./assets/icons/spacer.svg" width="268" height="1" alt="" /><br />
@@ -138,12 +132,6 @@
   <tr>
     <td width="294" align="center" valign="top">
       <img src="./assets/icons/spacer.svg" width="268" height="1" alt="" /><br />
-      <img src="./assets/icons/tabbit.png" width="44" height="44" alt="Tabbit" />
-      <h3><a href="https://chromewebstore.google.com/detail/tabbit-tab-closer-organiz/calbmnbhppoplenhgpfejepklainehko">Tabbit</a></h3>
-      <p>Helps you close old tabs you don't need anymore, and manage window sprawl across sessions.</p>
-    </td>
-    <td width="294" align="center" valign="top">
-      <img src="./assets/icons/spacer.svg" width="268" height="1" alt="" /><br />
       <img src="./assets/icons/tiny-suspender.png" width="44" height="44" alt="Tiny Suspender" />
       <h3><a href="https://github.com/arifwn/TinySuspender">Tiny Suspender</a></h3>
       <p>Unload idle tabs to reduce memory and CPU usage.</p>
@@ -153,6 +141,9 @@
       <img src="./assets/icons/ublock-origin-lite.png" width="44" height="44" alt="uBlock Origin Lite" />
       <h3><a href="https://github.com/uBlockOrigin/uBOL-home">uBlock Origin Lite</a></h3>
       <p>Permission-less MV3 content blocker for ads, trackers, and annoyances.</p>
+    </td>
+    <td width="294" align="center" valign="top">
+      <img src="./assets/icons/spacer.svg" width="268" height="1" alt="" />
     </td>
   </tr>
 </table>
