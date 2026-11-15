@@ -1,0 +1,18 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mc-bg" x1="16" y1="8" x2="112" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="mc-accent" x1="40" y1="28" x2="88" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FB923C"/>
+      <stop offset="100%" stop-color="#EA580C"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="116" height="116" rx="28" fill="url(#mc-bg)" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="2"/>
+  <circle cx="64" cy="64" r="38" stroke="#334155" stroke-width="5"/>
+  <path d="M64 26A38 38 0 1 1 28.4 77.3" stroke="url(#mc-accent)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M46 40H82M46 88H82" stroke="#F8FAFC" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M50 40C50 53 60 58 64 64C60 70 50 75 50 88H78C78 75 68 70 64 64C68 58 78 53 78 40H50Z" stroke="#F8FAFC" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M55 79C57.5 74 61 71 64 71C67 71 70.5 74 73 79H55Z" fill="url(#mc-accent)"/>
+</svg>

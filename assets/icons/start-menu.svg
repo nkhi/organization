@@ -1,0 +1,20 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sm-bg" x1="12" y1="8" x2="116" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#312E81"/>
+      <stop offset="55%" stop-color="#1E1B4B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="sm-gold" x1="44" y1="30" x2="84" y2="96" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FDE68A"/>
+      <stop offset="45%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="116" height="116" rx="28" fill="url(#sm-bg)" stroke="#A5B4FC" stroke-opacity="0.28" stroke-width="2"/>
+  <rect x="24" y="24" width="34" height="34" rx="9" fill="#FFFFFF" fill-opacity="0.10" stroke="#C7D2FE" stroke-opacity="0.25" stroke-width="1.5"/>
+  <rect x="70" y="24" width="34" height="34" rx="9" fill="#FFFFFF" fill-opacity="0.10" stroke="#C7D2FE" stroke-opacity="0.25" stroke-width="1.5"/>
+  <rect x="24" y="70" width="34" height="34" rx="9" fill="#FFFFFF" fill-opacity="0.10" stroke="#C7D2FE" stroke-opacity="0.25" stroke-width="1.5"/>
+  <rect x="70" y="70" width="34" height="34" rx="9" fill="#FBBF24" fill-opacity="0.18" stroke="#FBBF24" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M64 38L71.2 55.8L90 57.3L75.6 69.6L80.1 88L64 78.1L47.9 88L52.4 69.6L38 57.3L56.8 55.8L64 38Z" fill="url(#sm-gold)"/>
+</svg>
